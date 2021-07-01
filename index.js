@@ -66,6 +66,9 @@ const questions = [
     }
 ];
 
+// TEST: Questions array
+// for ( const value of questions ) console.log ( value );
+
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
 
